@@ -1,0 +1,17 @@
+@'
+venv/
+data/
+demo_out/
+quickmap-lroc/
+result1/
+results2/
+*.stl
+*.jpg
+*.tif
+*.img
+*.lbl
+*.zip
+*.csv
+__pycache__/
+*.pyc
+'@ | Set-Content .gitignore
